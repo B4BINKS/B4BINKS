@@ -1,16 +1,12 @@
-### Hi there 👋
+```py
+>>> import Github
+>>> Github.get('github.com/B4BINKS')
 
-<!--
-**B4BINKS/B4BINKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+    "Username": "B4Binks",
+    "Name": "Alex",
+    "Age": 14,
+    "Mail": "b4binks.py@proton.me",
+    "Location": "United States, Denver"
+}
+```
