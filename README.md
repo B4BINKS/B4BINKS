@@ -7,6 +7,6 @@
     "Name": "Alex",
     "Age": 14,
     "Mail": "b4binks.py@proton.me",
-    "Location": "United States, Denver"
+    "Location": "France, Paris"
 }
 ```
